@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icon/tray">
+        <file>icon.png</file>
+    </qresource>
+    <qresource prefix="/locales">
+        <file>sillyTimer_ru_RU.qm</file>
+    </qresource>
+</RCC>

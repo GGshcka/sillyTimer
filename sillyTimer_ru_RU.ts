@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ru_RU">
+    <context>
+        <name>MainWindow</name>
+        <message>
+            <source>Start</source>
+            <translation>Начать</translation>
+        </message>
+        <message>
+            <source>Stop</source>
+            <translation>Остановить</translation>
+        </message>
+    </context>
+    <context>
+        <name>sillyMods</name>
+        <message>
+            <source>Timer</source>
+            <translation>Таймер</translation>
+        </message>
+        <message>
+            <source>Alarm</source>
+            <translation>Будильник</translation>
+        </message>
+        <message>
+            <source>Stopwatch</source>
+            <translation>Секундомер</translation>
+        </message>
+    </context>
+    <context>
+        <name>trayContext</name>
+        <message>
+            <source>Open</source>
+            <translation>Открыть</translation>
+        </message>
+        <message>
+            <source>Quit</source>
+            <translation>Выход</translation>
+        </message>
+    </context>
+</TS>
