@@ -14,3 +14,4 @@ My own timer on Qt for Linux!
    Exec=/usr/local/bin/
    Icon=/path/to/stopwatch-solid.svg
    ```
+5. Restart the session.
