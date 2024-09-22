@@ -1,0 +1,9 @@
+/home/silly/sillyTimer/build/Desktop-Release/CMakeFiles/sillyTimer.dir
+/home/silly/sillyTimer/build/Desktop-Release/CMakeFiles/edit_cache.dir
+/home/silly/sillyTimer/build/Desktop-Release/CMakeFiles/rebuild_cache.dir
+/home/silly/sillyTimer/build/Desktop-Release/CMakeFiles/list_install_components.dir
+/home/silly/sillyTimer/build/Desktop-Release/CMakeFiles/install.dir
+/home/silly/sillyTimer/build/Desktop-Release/CMakeFiles/install/local.dir
+/home/silly/sillyTimer/build/Desktop-Release/CMakeFiles/install/strip.dir
+/home/silly/sillyTimer/build/Desktop-Release/CMakeFiles/sillyTimer_autogen_timestamp_deps.dir
+/home/silly/sillyTimer/build/Desktop-Release/CMakeFiles/sillyTimer_autogen.dir
