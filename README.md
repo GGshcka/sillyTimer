@@ -3,7 +3,7 @@ My own timer on Qt for Linux!
 
 ### Arch Linux install...
 1. Copy the files to the bin directory:
-```sudo cp /<absolutePathTo>/sillyTimer/build/Desktop-Release/sillyTimer /usr/local/bin```
+```sudo cp /path/to/sillyTimer /usr/local/bin```
 2. Move ```stopwatch-solid.svg``` to a convenient directory and remember the path.
 3. Create a sillyTimer.desktop file in ```~/.local/share/applications```
 4. Add this to the file:
